@@ -15,7 +15,7 @@
 Optional: 
 - `BeautifulSoup`
 
-The tutorial can be found [here](https://github.com/Oohwo/Python-PDFs-Tutorial/blob/main/How%20to%20Read%20PDFs%20in%20Python.ipynb)
+The tutorial can be found [here](https://github.com/Oohwo/Python-PDFs-Tutorial/blob/main/tutorial.ipynb)
 
 
 ## Next Steps <a name="nextSteps"></a>
