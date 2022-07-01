@@ -12,3 +12,8 @@ pdf.close()
 print("File downloaded")
   
 print("All PDF files downloaded")
+
+# Print first page of PDF
+reader = PdfReader("CDS1.pdf")
+page = reader.pages[0]
+print(page.extract_text())
